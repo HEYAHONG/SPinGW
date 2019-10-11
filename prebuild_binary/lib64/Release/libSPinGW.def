@@ -1,0 +1,6 @@
+EXPORTS
+    ErrorExit @1
+    closeSerialPort @2
+    openSerialPort @3
+    readFromSerialPort @4
+    writeToSerialPort @5
